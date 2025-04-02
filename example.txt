@@ -6,4 +6,5 @@ int main()
     int sub;
     printf("%d",add); 
     printf("sub is a %d",sub);
+    printf("%d",(a*b));
 }
