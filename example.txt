@@ -2,9 +2,12 @@ int main()
 {
     int a=10;
     int b=50;
-    int adddfgd= a+b;
+    int exmpae_adddfgd= a+b;
     int sub;
-    printf("454%d",add); 
-    printf("sub is a %d",sub);
+    kuykuy
+    printf
+    kuyk("454%d",add); 
+    kuk
+    kuykprintf("sub is a %d",sub);
     printf("multi is %d",(a*b));
 }
