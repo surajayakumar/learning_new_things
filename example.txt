@@ -2,9 +2,9 @@ int main()
 {
     int a=10;
     int b=50;
-    int add= a+b;
+    int adddfgd= a+b;
     int sub;
-    printf("%d",add); 
+    printf("454%d",add); 
     printf("sub is a %d",sub);
     printf("multi is %d",(a*b));
 }
