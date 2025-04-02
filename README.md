@@ -2,5 +2,5 @@
 #include "studio.h"
 int mian()
 {
-    printf("hello world\n");
+    printf("good world\n");
 }
