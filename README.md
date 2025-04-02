@@ -1,2 +1,5 @@
 # learning_new_things
-learn new things until your mind feel tired  
+int mian()
+{
+    printf("hello world\n");
+}
