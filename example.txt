@@ -10,4 +10,7 @@ int main()
     kuk
     kuykprintf("sub is a %d",sub);
     printf("multi is %d",(a*b));
+    printf("helloworld");
 }
+1
+commit is adding to it 
